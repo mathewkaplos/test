@@ -14,6 +14,10 @@ const SalesChart = () => {
         name: "Oneplue 9",
         data: [0, 11, 32, 45, 32, 34, 52, 41],
       },
+      {
+        name: "Redmi 13",
+        data: [10, 13, 320, 452, 132, 134, 152, 141],
+      },
     ],
     options: {
       chart: {

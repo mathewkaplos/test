@@ -61,7 +61,7 @@ export default function Home() {
               bg="bg-light-success text-success"
               title="Profit"
               subtitle="Yearly Earning"
-              earning="$21k"
+              earning="$210k"
               icon="bi bi-wallet"
             />
           </Col>
