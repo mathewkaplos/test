@@ -70,7 +70,7 @@ export default function Home() {
               bg="bg-light-danger text-danger"
               title="Refunds"
               subtitle="Refund given"
-              earning="$1k"
+              earning="$10k"
               icon="bi bi-coin"
             />
           </Col>
